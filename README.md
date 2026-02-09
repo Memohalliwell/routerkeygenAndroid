@@ -1,25 +1,25 @@
-# RouterKeygen for Android
+# RouterKeygen Para Android
 
-Router Keygen generate default WPA/WEP keys for the following router:
+Router Keygen genera default WPA/WEP contraseñas para Mos siguientes router:
 
-  * Thomson based routers ( this includes Thomson, SpeedTouch, Orange, Infinitum, BBox, DMax, BigPond, O2Wireless, Otenet, Cyta , TN_private, Blink )
-  * DLink ( only some models )
+  * Thomson routers ( Incluye Thomson, SpeedTouch, Orange, Infinitum, BBox, DMax, BigPond, O2Wireless, Otenet, Cyta , TN_private, Blink )
+  * DLink ( solo algunos modelos)
   * Pirelli Discus
   * Eircom
-  * Verizon FiOS ( only some routers supported)
+  * Verizon FiOS ( Solo de algunos se incluye el soporte)
   * Alice AGPF
-  * FASTWEB Pirelli and Telsey
-  * Huawei (some InfinitumXXXX)
-  * Wlan_XXXX or Jazztel_XXXX
-  * Wlan_XX ( only some are supported)
+  * FASTWEB Pirelli y Telsey
+  * Huawei (algunos InfinitumXXXX)
+  * Wlan_XXXX o Jazztel_XXXX
+  * Wlan_XX ( Solo algunos) 
   * Ono ( P1XXXXXX0000X )
-  * WlanXXXXXX, YacomXXXXXX and WifiXXXXXX
+  * WlanXXXXXX, YacomXXXXXX y WifiXXXXXX
   * Sky V1 routers
-  * Clubinternet.box v1 and v2 ( TECOM-AH4XXXX )
+  * Clubinternet.box v1 Y v2 ( TECOM-AH4XXXX )
   * InfostradaWifi
   * CONN-X
   * Megared
-  * EasyBox, Arcor and Vodafone
+  * EasyBox, Arcor y Vodafone
   * PBS (Austria)
   * MAXCOM
   * PTV
@@ -32,10 +32,10 @@ Router Keygen generate default WPA/WEP keys for the following router:
   * Speedport 
   * UPC (UPCXXXXXXX)
 
-Router Keygen is open-source licensed under [GPL](http://www.gnu.org/copyleft/gpl.html).
+Router Keygen es de licencia abierta [GPL](http://www.gnu.org/copyleft/gpl.html).
 
 
-# Releases
+# Lanzamientos
 
-Get them from here:
+Obtenlos de aquí:
 https://github.com/routerkeygen/routerkeygenAndroid/releases
